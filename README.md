@@ -1,0 +1,2 @@
+# sobamax.github.io
+Githubのwebホスティング
